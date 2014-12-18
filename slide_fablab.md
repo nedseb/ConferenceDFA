@@ -1,6 +1,6 @@
 class: center, middle
 
-# La fabrication numérique pour mon entreprise ?
+# Impression 3D, Fab Lab : Startup concrétisez vos idées ?
 ### Sébastien NEDJAR (MCF AMU - LIF)
 ![LAB](logo.png)
 ---
@@ -80,10 +80,6 @@ class: center, middle
 #Fab Lab
 ---
 
-## Le Mouvement des Makers
-  ![Makers](makers.jpg)
----
-
 ## Génèse du DIY
 - Masse monumentale de connaissance accessible
 
@@ -154,6 +150,7 @@ L'humanité a toujours innové en commençant par copier. Exemples :
 - Moteur de ce que certains appellent la troisième révolution industrielle.
 ---
 
+
 ## Effet de mode ou mouvement de fond ?
 - Un exemple d'émergence d'une communauté auto-organisée collaborative et innovante.
 
@@ -164,6 +161,10 @@ L'humanité a toujours innové en commençant par copier. Exemples :
 - Comme pour l'informatique dans les années 80, on est à un moment d'effervescence qu'il faut péréniser.
 
 - Peut-être le début de la transformation radicale du modèle industriel actuel ?
+---
+
+## Le Mouvement des Makers
+  ![Makers](makers.jpg)
 ---
 
 ## Le manifeste du mouvement des makers
