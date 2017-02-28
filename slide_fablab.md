@@ -1,8 +1,8 @@
 class: center, middle
 
-# Impression 3D, Fab Lab : Startup concrétisez vos idées ?
+# Numérique et créativité : Concrétisons nos idées ?
 ### Sébastien NEDJAR (MCF AMU - LIF)
-![LAB](logo.png)
+![LAB](logoLAB.png)
 ---
 
 # Disclaimer
@@ -23,6 +23,8 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
     + Membre fondateur du Fab Lab Provence et du Laboratoire d'Aixpérimentation et de Bidouille.
     
     + Co-animateur de l'ICSTUG #iutagile.
+
+    + Organisateur des rencontre Beyond Lab.
     
     + Et bien d'autres activités étranges (pour avoir plus de détails faire une psychanalyse d'un étudiant m'ayant subi).
 ---
