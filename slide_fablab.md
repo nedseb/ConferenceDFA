@@ -13,7 +13,7 @@ class: center, middle
 
 # À propos
 - Sébastien NEDJAR (@nedseb)
-    + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF.
+    + Maître de conférences à Aix-Marseille Université. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF.
 
     + Membre fondateur du Fab Lab Provence et du L.A.B
     
