@@ -1,6 +1,6 @@
 class: center, middle
 
-# Numérique et créativité : Concrétisons nos idées ?
+# Fablabs : Concrétisons nos idées ?
 ### Sébastien NEDJAR (MCF AMU - LIF)
 ![LAB](logo.png)
 ---
@@ -95,19 +95,6 @@ class: center, middle
 - Moteur de ce que certains appellent la troisième révolution industrielle.
 ---
 
-
-## Effet de mode ou mouvement de fond ?
-- Un exemple d'émergence d'une communauté auto-organisée collaborative et innovante.
-
-- Le mouvement des makers est une forme de passage de la bidouille informatique à la bidouille des objets physiques.
-
-- Nous sommes à un instant particulier de l'Histoire : la révolution de la fabrication numérique pour tous.
-
-- Comme pour l'informatique dans les années 80, on est à un moment d'effervescence qu'il faut péréniser.
-
-- Peut-être le début de la transformation radicale du modèle industriel actuel ?
----
-
 ## Le Mouvement des Makers
   ![Makers](makers.jpg)
 ---
@@ -124,8 +111,6 @@ class: center, middle
     - Installation technico-artistiques
     
     - Réparation et détournement d'objets
-    
-    - Et bien pire encore
 
 - Échange de compétences.
 ---
@@ -145,28 +130,13 @@ class: center, middle
 ---
 
 class: center, middle
+# le réseau des Fablabs et la coopération avec l'Arménie ?
+---
+
+class: center, middle
 # Quel est l'intérêt pour une entreprise ?
 ---
 
-# Quel est l'intérêt pour une entreprise ?
-- Un mode de fonctionnement
-
-- Des valeurs humaines
-
-- Des pratiques
----
-
-# Fail Fast, Fail Often
-- Démocratisation des outils
-
-- Démocratisation du risque
-
-- Échouons souvent pour un jour réussir
-
-- Ticket d'entrée plus faible pour l'innovation
-
-- La vraie révolution est dans la démocratisation de l'innovation.
----
 
 class: center, middle
 # How to make (almost) anything
