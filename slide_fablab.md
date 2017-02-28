@@ -130,13 +130,12 @@ class: center, middle
 ---
 
 class: center, middle
-# le réseau des Fablabs et la coopération avec l'Arménie ?
----
-
-class: center, middle
 # Quel est l'intérêt pour une entreprise ?
 ---
 
+class: center, middle
+# le réseau des Fablabs et la coopération avec l'Arménie ?
+---
 
 class: center, middle
 # How to make (almost) anything
