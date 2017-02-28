@@ -25,40 +25,12 @@ class: center, middle
 ---
 
 class: center, middle
-#La Fabrication Numérique késako ?!
+#La Fabrication Numérique ?!
 ---
 
 ## Qu'est-ce que la Fabrication Numérique ?
 
 L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![CAO](freecad.png)]
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![FAO](cambam.jpg)]
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![Centre d'usinage](usinage.jpg)]
----
-
-## Qu'est-ce que la Fabrication Numérique ?
-
-L'ensemble des outils numériques (machines CNC et logiciels) permettant de passer de l'idée à un objet.
-
-.center[![Piece usinée](piece.jpg)]
 ---
 
 ## Pourquoi en parle-t-on autant ?
